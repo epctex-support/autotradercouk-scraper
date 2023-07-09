@@ -12,6 +12,8 @@ The Autotrader UK data scraper supports the following features:
 
 -   Listing details - Retrieve information about the cars, vans, bikes, motorhomes, caravans, trucks, farms, and plants. Brand, model, price, mileage, fuel type, transmission, interior colors, exterior colors, and many other features.
 
+**🇺🇸 If you are looking into scraping Autotrader.com instead of the UK store, please check our** [Autotrader Scraper](https://apify.com/epctex/autotrader-scraper?fpr=yhdrb).
+
 ## Bugs, fixes, updates, and changelog
 
 This scraper is under active development. If you have any feature requests you can create an issue from [here](https://github.com/epctex/autotradercouk-scraper/issues).

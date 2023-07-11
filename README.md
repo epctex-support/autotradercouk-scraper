@@ -1,4 +1,4 @@
-[https://apify.com/epctex/autotradercouk-scraper](https://apify.com/epctex/autotradercouk-scraper?fpr=yhdrb)
+# [https://apify.com/epctex/autotradercouk-scraper](https://apify.com/epctex/autotradercouk-scraper?fpr=yhdrb)
 
 # Actor - Autotrader UK Scraper
 
@@ -47,7 +47,7 @@ With the last approach that is explained above you can also fetch any interval o
 
 ### Compute Unit Consumption
 
-The actor is optimized to run blazing fast and scrape many as listings as possible. Therefore, it forefronts all listing detail requests. If the actor doesn't block very often it'll scrape 100 listings in 2 minutes with ~0.1-0.2 compute units.
+The actor is optimized to run blazing fast and scrape many listings as possible. Therefore, it forefronts all listing detail requests. If the actor doesn't block very often it'll scrape 100 listings in 2 minutes with ~0.1-0.2 compute units.
 
 ### Autotrader UK Scraper Input example
 
@@ -85,13 +85,13 @@ The actor is optimized to run blazing fast and scrape many as listings as possib
 During the run, the actor will output messages letting you know what is going on. Each message always contains a short label specifying which page from the provided list is currently specified.
 When items are loaded from the page, you should see a message about this event with a loaded item count and total item count for each page.
 
-If you provide incorrect input to the actor, it will immediately stop with failure state and output an explanation of what is wrong.
+If you provide incorrect input to the actor, it will immediately stop with a failure state and output an explanation of what is wrong.
 
 ## Autotrader UK Export
 
 During the run, the actor stores results into a dataset. Each item is a separate item in the dataset.
 
-You can manage the results in any languague (Python, PHP, Node JS/NPM). See the FAQ or <a href="https://www.apify.com/docs/api" target="blank">our API reference</a> to learn more about getting results from this Autotrader UK actor.
+You can manage the results in any language (Python, PHP, Node JS/NPM). See the FAQ or <a href="https://www.apify.com/docs/api" target="blank">our API reference</a> to learn more about getting results from this Autotrader UK actor.
 
 ## Scraped Autotrader UK Output
 

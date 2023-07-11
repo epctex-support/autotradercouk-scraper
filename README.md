@@ -1,4 +1,4 @@
-# [https://apify.com/epctex/autotradercouk-scraper](https://apify.com/epctex/autotradercouk-scraper?fpr=yhdrb)
+[https://apify.com/epctex/autotradercouk-scraper](https://apify.com/epctex/autotradercouk-scraper?fpr=yhdrb)
 
 # Actor - Autotrader UK Scraper
 
